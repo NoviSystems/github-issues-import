@@ -1,4 +1,11 @@
 
+#### ITng notes ####
+
+- Vagrant up
+- follow instructions from [here](https://www.softwarecollections.org/en/scls/rhscl/python33/) to setup python 3.x
+- generate personal oauth token
+- setup config.ini
+
 ### GitHub Issues Import ###
 
 This Python script allows you to import issues and pull requests from one repository to another; works even for private repositories, and if the two repositories are not related to each other in any way.
